@@ -1,0 +1,9 @@
+package OOOPS;
+
+public abstarct class AbstractMain {
+
+    abstract void click();
+	abstract void type();
+	  void select(){
+	      Syatem .out.println("Select Country");
+	  }
